@@ -1,0 +1,19 @@
+.body{
+    text-align: center;
+    margin: 0;
+}
+.content-wrap{
+    margin: auto;
+    width: 75%;
+}
+.content{
+    column-count: 3;
+}
+.columna{
+    width: 40%;
+    display: inline-block;
+}
+.img-cont img{
+    max-width: 150px;
+    max-height: 150px;
+}
